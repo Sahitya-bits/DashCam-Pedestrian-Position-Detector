@@ -92,7 +92,7 @@ The dataset combines multiple sources:
 ### Access
 
 The complete dataset is available on **Kaggle** under public domain:
-- **Kaggle Dataset**: [Dashcam Pedestrian Locate Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/sahityasharma2007/dashcam-pedestrianlocate))
+- **Kaggle Dataset**: [Dashcam Pedestrian Locate Dataset]([https://www.kaggle.com/datasets/sahityasharma2007/dashcam-pedestrianlocate])
 - License: Public domain - free to use and modify
 
 ## 🚀 Quick Start
