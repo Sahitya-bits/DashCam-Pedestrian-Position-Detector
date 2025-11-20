@@ -111,8 +111,8 @@ pathlib
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dashcam-pedestrian-detection.git
-cd dashcam-pedestrian-detection
+git clone https://github.com/Sahitya-bits/DashCam-Pedestrian-Position-Detector.git
+cd DashCam-Pedestrian-Detector
 
 # Install dependencies
 pip install -r requirements.txt
