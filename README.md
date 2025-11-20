@@ -338,8 +338,8 @@ This project and dataset are released under the **MIT License** (or specify your
 ## 📧 Contact
 
 For questions, suggestions, or collaboration:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com)
+- **Email**: rjsahitya007@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/sahitya-sharma-2b0731351/
 - **GitHub Issues**: Open an issue in this repository
 
 ## 📚 References
